@@ -1,0 +1,9 @@
+News Resources:
+Yahoo News Search API
+https://developer.yahoo.com/search/news/V1/newsSearch.html
+
+Bing News Search
+http://www.bing.com/toolbox/bingdeveloper/
+
+Financial Times
+https://developer.ft.com/docs/license_quick_start/datamininglicense
